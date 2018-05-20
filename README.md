@@ -1,6 +1,6 @@
 # first_neuronal_network
 
-## Dataset from Kaggle :
-https://www.kaggle.com/crawford/emnist
+### 3 layers neuronal network, using sigmoïd function and MSE to train
 
-Training with 3 layers neuronal network
+### Dataset from Kaggle :
+https://www.kaggle.com/crawford/emnist
